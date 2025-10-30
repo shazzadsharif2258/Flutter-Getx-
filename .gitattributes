@@ -1,0 +1,7 @@
+# Tell GitHub Linguist to ignore auto-generated platform code
+android/* linguist-vendored
+ios/* linguist-vendored
+linux/* linguist-vendored
+macos/* linguist-vendored
+windows/* linguist-vendored
+web/* linguist-vendored
